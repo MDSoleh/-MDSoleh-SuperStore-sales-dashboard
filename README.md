@@ -11,6 +11,16 @@ To create an interactive dashboard in Power BI that provides a comprehensive ana
 
 Developed a comprehensive sales dashboard in Power BI. Imported and cleaned sales data, created calculated columns and measures, and designed various visualizations (line charts, bar charts, pie charts, maps). Implemented interactive features such as slicers, filters, tooltips, and drill-throughs. Presented key insights into sales trends, regional performance, product analysis, and customer segments.
 
+#### Tools and Techniques:
+
+Power BI: 
+
+Data import, data cleaning, data modeling, DAX calculations, and interactive dashboard creation.
+
+Data Visualization: 
+
+Line charts, bar charts, pie charts, maps, treemaps, slicers, filters, tooltips, and drill-throughs.
+
 #### Key Steps and Details:
 ##### Data Collection and Preparation:
 
@@ -55,3 +65,7 @@ Visual Consistency: Ensured consistent use of colors, fonts, and layout to enhan
 ##### Outcome:
 
 This project showcased my ability to leverage Power BI for advanced data visualization and analysis. The interactive dashboard provided valuable insights into sales performance, helping stakeholders make data-driven decisions to enhance business strategy and operations.
+
+##### 15 day Forcast for sales using Power BI forecast feature:
+
+![image](https://github.com/MDSoleh/-MDSoleh-SuperStore-sales-dashboard/assets/99492800/9c0df3f4-dae7-4207-8f3d-1a2ba1a8176b)
