@@ -1,8 +1,6 @@
 ## MDSoleh-SuperStore-sales-dashboard
 In this project, I developed an interactive sales dashboard for a superstore using Power BI. The objective was to visualize sales data effectively, track key performance indicators (KPIs), and uncover trends to support strategic business decisions.
 
-![Screenshot 2024-07-02 014615](https://github.com/MDSoleh/-MDSoleh-SuperStore-sales-dashboard/assets/99492800/9f603a4f-8bfd-417a-ba38-87b882ad0cf9)
-
 #### Objective: 
 
 To create an interactive dashboard in Power BI that provides a comprehensive analysis of superstore sales data, highlighting key performance metrics, trends, and actionable insights to aid in decision-making.
