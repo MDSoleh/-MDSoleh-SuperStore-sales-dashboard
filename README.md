@@ -13,7 +13,7 @@ Developed a comprehensive sales dashboard in Power BI. Imported and cleaned sale
 
 Power BI: 
 
-Data import, data cleaning, data modeling, DAX calculations, and interactive dashboard creation.
+To import data, for data cleaning, data modeling, DAX calculations, and interactive dashboard creation.
 
 Data Visualization: 
 
@@ -24,11 +24,11 @@ Line charts, bar charts, pie charts, maps, treemaps, slicers, filters, tooltips,
 
 Data Source: 
 
-Extracted sales data from a superstore dataset, typically includes fields such as order date, sales, profit, customer segment, region, product category, and sub-category.
+Extracted sales data from a superstore dataset, which typically includes fields such as order date, sales, profit, customer segment, region, product category, and sub-category.
 
 Data Cleaning:
 
-Imported the dataset into Power BI.
+Imported the dataset(csv format) into Power BI.
 Cleaned the data by handling missing values, removing duplicates, and ensuring consistency in date formats and categorical data.
 
 ##### Data Modeling:
@@ -39,18 +39,19 @@ Established relationships between tables (e.g., orders, customers, products, and
 
 Calculated Columns and Measures: 
 
-Created calculated columns and measures using DAX (Data Analysis Expressions) to perform custom calculations and aggregations such as total sales, total profit, profit margin, and sales growth.
+Created calculated columns and measures using DAX (Data Analysis Expressions) to perform custom calculations and aggregations such as total sales, total profit, and sales growth.
 
 ##### Dashboard Design:
 
 ###### KPIs: 
-Displayed key performance indicators such as total sales, total profit, average order value, and profit margin.
+
+Displayed key performance indicators such as total sales, total profit, and average days for delivery. 
 
 ###### Sales Analysis:
 
 By Time: Visualized sales trends over time using line charts to show monthly, quarterly, and yearly sales.
 
-By Region: Used maps and bar charts to analyze sales distribution across different regions.
+By Region: Used maps and bar charts to analyze sales distribution across different regions of the country.
 
 By Category: Employed stacked bar charts and treemaps to display sales and profit by product category and sub-category.
 
